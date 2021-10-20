@@ -1,1 +1,2 @@
 # API
+# Use com moderação
